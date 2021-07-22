@@ -7,7 +7,8 @@ import './index.css';
 // import App from "./custom-hooks/App";
 // import App from "./use-reducer/App";
 // import App from "./react-context/App";
-import App from "./compound-components/App";
+// import App from "./compound-components/App";
+import App from "./error-boundary/App";
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
