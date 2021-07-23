@@ -9,7 +9,8 @@ import './index.css';
 // import App from "./react-context/App";
 // import App from "./compound-components/App";
 // import App from "./error-boundary/App";
-import App from "./react-with-redux-toolkit/App";
+// import App from "./react-with-redux-toolkit/App";
+import App from "./redux-thunk/App";
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
